@@ -4,7 +4,7 @@ import {
          Text,
          Image,
        } from 'react-native';
-import { NavigationContainer, useNavigation } from '@react-navigation/native';
+import { useNavigation } from '@react-navigation/native';
 
 import IllustrationImg from '../../assets/illustration.png';
 import { styles } from './styles';

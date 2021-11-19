@@ -6,6 +6,7 @@ import { SignIn} from '../screens/SignIn';
 
 
 
+
 const { Navigator, Screen } = createStackNavigator();
 
 export function AuthRoutes() {
